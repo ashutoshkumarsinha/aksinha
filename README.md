@@ -3,3 +3,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=ashutoshkumarsinha&theme=<THEME_NAME>" />
 [![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshkumarsinha)](https://github.com/ashutoshkumarsinha/github-readme-stats)
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
